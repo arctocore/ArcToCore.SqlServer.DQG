@@ -1,0 +1,8 @@
+C:\Users\z6soa\Downloads\ArcToCore.SqlServer.Dependency.Query.Generator\ArcToCore.SqlServer.DQG\bin\Debug\netstandard2.1\ArcToCore.SqlServer.DQG.deps.json
+C:\Users\z6soa\Downloads\ArcToCore.SqlServer.Dependency.Query.Generator\ArcToCore.SqlServer.DQG\bin\Debug\netstandard2.1\ArcToCore.SqlServer.DQG.dll
+C:\Users\z6soa\Downloads\ArcToCore.SqlServer.Dependency.Query.Generator\ArcToCore.SqlServer.DQG\bin\Debug\netstandard2.1\ArcToCore.SqlServer.DQG.pdb
+C:\Users\z6soa\Downloads\ArcToCore.SqlServer.Dependency.Query.Generator\ArcToCore.SqlServer.DQG\obj\Debug\netstandard2.1\ArcToCore.SqlServer.DQG.AssemblyInfoInputs.cache
+C:\Users\z6soa\Downloads\ArcToCore.SqlServer.Dependency.Query.Generator\ArcToCore.SqlServer.DQG\obj\Debug\netstandard2.1\ArcToCore.SqlServer.DQG.AssemblyInfo.cs
+C:\Users\z6soa\Downloads\ArcToCore.SqlServer.Dependency.Query.Generator\ArcToCore.SqlServer.DQG\obj\Debug\netstandard2.1\ArcToCore.SqlServer.DQG.csproj.CoreCompileInputs.cache
+C:\Users\z6soa\Downloads\ArcToCore.SqlServer.Dependency.Query.Generator\ArcToCore.SqlServer.DQG\obj\Debug\netstandard2.1\ArcToCore.SqlServer.DQG.dll
+C:\Users\z6soa\Downloads\ArcToCore.SqlServer.Dependency.Query.Generator\ArcToCore.SqlServer.DQG\obj\Debug\netstandard2.1\ArcToCore.SqlServer.DQG.pdb

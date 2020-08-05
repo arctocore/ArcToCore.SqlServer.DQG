@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup Label="Globals">
+    <SccProjectName>SAK</SccProjectName>
+    <SccProvider>SAK</SccProvider>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccLocalPath>SAK</SccLocalPath>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>Generate sql queries based on table dependencies</Description>
+    <Company>ArcToCore.eu</Company>
+    <Authors>ArcToCore.eu</Authors>
+    <Copyright>ArcToCore.eu</Copyright>
+    <PackageIconUrl>https://s.gravatar.com/avatar/6b69712f728445461609e73f9a2a5f79?s=80</PackageIconUrl>
+    <PackageTags>Sqlserver,sql</PackageTags>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.1" />
+  </ItemGroup>
+
+</Project>

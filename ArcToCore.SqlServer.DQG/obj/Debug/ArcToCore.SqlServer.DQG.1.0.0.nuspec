@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ArcToCore.SqlServer.DQG</id>
+    <version>1.0.0</version>
+    <authors>ArcToCore.eu</authors>
+    <owners>ArcToCore.eu</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>https://s.gravatar.com/avatar/6b69712f728445461609e73f9a2a5f79?s=80</iconUrl>
+    <description>Generate sql queries based on table dependencies</description>
+    <copyright>ArcToCore.eu</copyright>
+    <tags>Sqlserver,sql</tags>
+    <dependencies>
+      <group targetFramework=".NETStandard2.1">
+        <dependency id="System.Data.SqlClient" version="4.8.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\z6soa\Downloads\ArcToCore.SqlServer.Dependency.Query.Generator\ArcToCore.SqlServer.DQG\bin\Debug\netstandard2.1\ArcToCore.SqlServer.DQG.dll" target="lib\netstandard2.1\ArcToCore.SqlServer.DQG.dll" />
+  </files>
+</package>
